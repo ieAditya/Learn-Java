@@ -1,5 +1,3 @@
-package Array;
-
 public class RemovingMinimumAndMaximumFromArrayLeetcode {
     class Solution {
         public int minimumDeletions(int[] nums) {
